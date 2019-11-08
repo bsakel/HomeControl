@@ -1,0 +1,17 @@
+C:\Users\vsakella\Documents\Other\HomeControl\HomeControl\bin\Debug\netcoreapp2.1\HomeControl.deps.json
+C:\Users\vsakella\Documents\Other\HomeControl\HomeControl\bin\Debug\netcoreapp2.1\HomeControl.runtimeconfig.json
+C:\Users\vsakella\Documents\Other\HomeControl\HomeControl\bin\Debug\netcoreapp2.1\HomeControl.runtimeconfig.dev.json
+C:\Users\vsakella\Documents\Other\HomeControl\HomeControl\bin\Debug\netcoreapp2.1\HomeControl.dll
+C:\Users\vsakella\Documents\Other\HomeControl\HomeControl\bin\Debug\netcoreapp2.1\HomeControl.pdb
+C:\Users\vsakella\Documents\Other\HomeControl\HomeControl\bin\Debug\netcoreapp2.1\MQTTService.dll
+C:\Users\vsakella\Documents\Other\HomeControl\HomeControl\bin\Debug\netcoreapp2.1\MQTTService.pdb
+C:\Users\vsakella\Documents\Other\HomeControl\HomeControl\obj\Debug\netcoreapp2.1\HomeControl.csprojAssemblyReference.cache
+C:\Users\vsakella\Documents\Other\HomeControl\HomeControl\obj\Debug\netcoreapp2.1\HomeControl.csproj.CoreCompileInputs.cache
+C:\Users\vsakella\Documents\Other\HomeControl\HomeControl\obj\Debug\netcoreapp2.1\HomeControl.RazorAssemblyInfo.cache
+C:\Users\vsakella\Documents\Other\HomeControl\HomeControl\obj\Debug\netcoreapp2.1\HomeControl.RazorAssemblyInfo.cs
+C:\Users\vsakella\Documents\Other\HomeControl\HomeControl\obj\Debug\netcoreapp2.1\HomeControl.AssemblyInfoInputs.cache
+C:\Users\vsakella\Documents\Other\HomeControl\HomeControl\obj\Debug\netcoreapp2.1\HomeControl.AssemblyInfo.cs
+C:\Users\vsakella\Documents\Other\HomeControl\HomeControl\obj\Debug\netcoreapp2.1\HomeControl.RazorTargetAssemblyInfo.cache
+C:\Users\vsakella\Documents\Other\HomeControl\HomeControl\obj\Debug\netcoreapp2.1\HomeControl.csproj.CopyComplete
+C:\Users\vsakella\Documents\Other\HomeControl\HomeControl\obj\Debug\netcoreapp2.1\HomeControl.dll
+C:\Users\vsakella\Documents\Other\HomeControl\HomeControl\obj\Debug\netcoreapp2.1\HomeControl.pdb

@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28306.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HomeControl.Master", "HomeControl.Master\HomeControl.Master.csproj", "{805B9B6E-CAF0-4077-A0FB-0203B9F488A8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HomeControl.RelayRpi", "HomeControl.RelayRpi\HomeControl.RelayRpi.csproj", "{086FD6BB-536E-426F-A65A-55FB55E75417}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HomeControl.Common.MQTTService", "HomeControl.Common.MQTTService\HomeControl.Common.MQTTService.csproj", "{787DFDA7-DD95-40C4-A09B-829F179F3FD2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HomeControl.Common.Hardware", "HomeControl.Common.Hardware\HomeControl.Common.Hardware.csproj", "{CC0FC467-6C43-4C59-849B-7AAE253FE96C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HomeControl.Common.Messaging.Handlers", "HomeControl.Common.Messaging.Handlers\HomeControl.Common.Messaging.Handlers.csproj", "{80144F95-8D7E-47AC-8535-AB35BC34CAC3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HomeControl.Common.Messaging.Messages", "HomeControl.Common.Messaging.Messages\HomeControl.Common.Messaging.Messages.csproj", "{E98E556C-2014-4896-9B3B-57470F7B6993}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{805B9B6E-CAF0-4077-A0FB-0203B9F488A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{805B9B6E-CAF0-4077-A0FB-0203B9F488A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{805B9B6E-CAF0-4077-A0FB-0203B9F488A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{805B9B6E-CAF0-4077-A0FB-0203B9F488A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{086FD6BB-536E-426F-A65A-55FB55E75417}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{086FD6BB-536E-426F-A65A-55FB55E75417}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{086FD6BB-536E-426F-A65A-55FB55E75417}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{086FD6BB-536E-426F-A65A-55FB55E75417}.Release|Any CPU.Build.0 = Release|Any CPU
+		{787DFDA7-DD95-40C4-A09B-829F179F3FD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{787DFDA7-DD95-40C4-A09B-829F179F3FD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{787DFDA7-DD95-40C4-A09B-829F179F3FD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{787DFDA7-DD95-40C4-A09B-829F179F3FD2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC0FC467-6C43-4C59-849B-7AAE253FE96C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC0FC467-6C43-4C59-849B-7AAE253FE96C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC0FC467-6C43-4C59-849B-7AAE253FE96C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC0FC467-6C43-4C59-849B-7AAE253FE96C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80144F95-8D7E-47AC-8535-AB35BC34CAC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80144F95-8D7E-47AC-8535-AB35BC34CAC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80144F95-8D7E-47AC-8535-AB35BC34CAC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80144F95-8D7E-47AC-8535-AB35BC34CAC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E98E556C-2014-4896-9B3B-57470F7B6993}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E98E556C-2014-4896-9B3B-57470F7B6993}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E98E556C-2014-4896-9B3B-57470F7B6993}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E98E556C-2014-4896-9B3B-57470F7B6993}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E2C03051-BE24-4132-A536-8F85859242C6}
+	EndGlobalSection
+EndGlobal

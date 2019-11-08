@@ -1,0 +1,8 @@
+D:\Various\HomeControl\HomeControl.Common.Messaging.Messages\bin\Debug\netcoreapp2.0\HomeControl.Common.Messaging.Messages.deps.json
+D:\Various\HomeControl\HomeControl.Common.Messaging.Messages\bin\Debug\netcoreapp2.0\HomeControl.Common.Messaging.Messages.dll
+D:\Various\HomeControl\HomeControl.Common.Messaging.Messages\bin\Debug\netcoreapp2.0\HomeControl.Common.Messaging.Messages.pdb
+D:\Various\HomeControl\HomeControl.Common.Messaging.Messages\obj\Debug\netcoreapp2.0\HomeControl.Common.Messaging.Messages.csproj.CoreCompileInputs.cache
+D:\Various\HomeControl\HomeControl.Common.Messaging.Messages\obj\Debug\netcoreapp2.0\HomeControl.Common.Messaging.Messages.AssemblyInfoInputs.cache
+D:\Various\HomeControl\HomeControl.Common.Messaging.Messages\obj\Debug\netcoreapp2.0\HomeControl.Common.Messaging.Messages.AssemblyInfo.cs
+D:\Various\HomeControl\HomeControl.Common.Messaging.Messages\obj\Debug\netcoreapp2.0\HomeControl.Common.Messaging.Messages.dll
+D:\Various\HomeControl\HomeControl.Common.Messaging.Messages\obj\Debug\netcoreapp2.0\HomeControl.Common.Messaging.Messages.pdb

@@ -1,0 +1,12 @@
+D:\Various\HomeControl\HomeControl.Common.Hardware\bin\Debug\netcoreapp2.0\HomeControl.Common.Hardware.deps.json
+D:\Various\HomeControl\HomeControl.Common.Hardware\bin\Debug\netcoreapp2.0\HomeControl.Common.Hardware.dll
+D:\Various\HomeControl\HomeControl.Common.Hardware\bin\Debug\netcoreapp2.0\HomeControl.Common.Hardware.pdb
+D:\Various\HomeControl\HomeControl.Common.Hardware\bin\Debug\netcoreapp2.0\HomeControl.Common.Messaging.Messages.dll
+D:\Various\HomeControl\HomeControl.Common.Hardware\bin\Debug\netcoreapp2.0\HomeControl.Common.Messaging.Messages.pdb
+D:\Various\HomeControl\HomeControl.Common.Hardware\obj\Debug\netcoreapp2.0\HomeControl.Common.Hardware.csprojAssemblyReference.cache
+D:\Various\HomeControl\HomeControl.Common.Hardware\obj\Debug\netcoreapp2.0\HomeControl.Common.Hardware.csproj.CoreCompileInputs.cache
+D:\Various\HomeControl\HomeControl.Common.Hardware\obj\Debug\netcoreapp2.0\HomeControl.Common.Hardware.AssemblyInfoInputs.cache
+D:\Various\HomeControl\HomeControl.Common.Hardware\obj\Debug\netcoreapp2.0\HomeControl.Common.Hardware.AssemblyInfo.cs
+D:\Various\HomeControl\HomeControl.Common.Hardware\obj\Debug\netcoreapp2.0\HomeControl.Common.Hardware.csproj.CopyComplete
+D:\Various\HomeControl\HomeControl.Common.Hardware\obj\Debug\netcoreapp2.0\HomeControl.Common.Hardware.dll
+D:\Various\HomeControl\HomeControl.Common.Hardware\obj\Debug\netcoreapp2.0\HomeControl.Common.Hardware.pdb

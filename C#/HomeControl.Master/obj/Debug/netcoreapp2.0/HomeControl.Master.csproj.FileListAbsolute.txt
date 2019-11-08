@@ -1,0 +1,16 @@
+D:\Various\HomeControl\HomeControl.Master\bin\Debug\netcoreapp2.0\HomeControl.Master.deps.json
+D:\Various\HomeControl\HomeControl.Master\bin\Debug\netcoreapp2.0\HomeControl.Master.runtimeconfig.json
+D:\Various\HomeControl\HomeControl.Master\bin\Debug\netcoreapp2.0\HomeControl.Master.runtimeconfig.dev.json
+D:\Various\HomeControl\HomeControl.Master\bin\Debug\netcoreapp2.0\HomeControl.Master.dll
+D:\Various\HomeControl\HomeControl.Master\bin\Debug\netcoreapp2.0\HomeControl.Master.pdb
+D:\Various\HomeControl\HomeControl.Master\bin\Debug\netcoreapp2.0\HomeControl.Common.Messaging.Messages.dll
+D:\Various\HomeControl\HomeControl.Master\bin\Debug\netcoreapp2.0\HomeControl.Common.MQTTService.dll
+D:\Various\HomeControl\HomeControl.Master\bin\Debug\netcoreapp2.0\HomeControl.Common.MQTTService.pdb
+D:\Various\HomeControl\HomeControl.Master\bin\Debug\netcoreapp2.0\HomeControl.Common.Messaging.Messages.pdb
+D:\Various\HomeControl\HomeControl.Master\obj\Debug\netcoreapp2.0\HomeControl.Master.csprojAssemblyReference.cache
+D:\Various\HomeControl\HomeControl.Master\obj\Debug\netcoreapp2.0\HomeControl.Master.csproj.CoreCompileInputs.cache
+D:\Various\HomeControl\HomeControl.Master\obj\Debug\netcoreapp2.0\HomeControl.Master.AssemblyInfoInputs.cache
+D:\Various\HomeControl\HomeControl.Master\obj\Debug\netcoreapp2.0\HomeControl.Master.AssemblyInfo.cs
+D:\Various\HomeControl\HomeControl.Master\obj\Debug\netcoreapp2.0\HomeControl.Master.csproj.CopyComplete
+D:\Various\HomeControl\HomeControl.Master\obj\Debug\netcoreapp2.0\HomeControl.Master.dll
+D:\Various\HomeControl\HomeControl.Master\obj\Debug\netcoreapp2.0\HomeControl.Master.pdb
