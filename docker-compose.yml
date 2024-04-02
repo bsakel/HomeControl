@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  homecontrol.azurefunctions:
+    image: ${DOCKER_REGISTRY-}homecontrolazurefunctions
+    build:
+      context: .
+      dockerfile: HomeControl.AzureFunctions/Dockerfile

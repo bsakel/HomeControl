@@ -1,0 +1,14 @@
+{
+  "profiles": {
+    "HomeControl.AzureFunctions": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7201"
+    },
+    "Docker": {
+      "commandName": "Docker",
+      "launchUrl": "{Scheme}://{ServiceHost}:{ServicePort}",
+      "httpPort": 32758,
+      "useSSL": false
+    }
+  }
+}
