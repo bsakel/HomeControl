@@ -1,9 +1,0 @@
-D:\Various\HomeControl\MQTTService\bin\Debug\netcoreapp2.0\MQTTService.deps.json
-D:\Various\HomeControl\MQTTService\bin\Debug\netcoreapp2.0\MQTTService.dll
-D:\Various\HomeControl\MQTTService\bin\Debug\netcoreapp2.0\MQTTService.pdb
-D:\Various\HomeControl\MQTTService\obj\Debug\netcoreapp2.0\MQTTService.csproj.CoreCompileInputs.cache
-D:\Various\HomeControl\MQTTService\obj\Debug\netcoreapp2.0\MQTTService.AssemblyInfoInputs.cache
-D:\Various\HomeControl\MQTTService\obj\Debug\netcoreapp2.0\MQTTService.AssemblyInfo.cs
-D:\Various\HomeControl\MQTTService\obj\Debug\netcoreapp2.0\MQTTService.dll
-D:\Various\HomeControl\MQTTService\obj\Debug\netcoreapp2.0\MQTTService.pdb
-D:\Various\HomeControl\MQTTService\obj\Debug\netcoreapp2.0\MQTTService.csprojAssemblyReference.cache

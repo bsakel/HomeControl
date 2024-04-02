@@ -1,5 +1,0 @@
-D:\Various\HomeControl\HomeControl.RelayRpi.Hardware.Relay\bin\Debug\netcoreapp2.0\HomeControl.RelayRpi.Messages.dll
-D:\Various\HomeControl\HomeControl.RelayRpi.Hardware.Relay\obj\Debug\netcoreapp2.0\HomeControl.RelayRpi.Hardware.Relay.csprojAssemblyReference.cache
-D:\Various\HomeControl\HomeControl.RelayRpi.Hardware.Relay\obj\Debug\netcoreapp2.0\HomeControl.RelayRpi.Hardware.Relay.csproj.CoreCompileInputs.cache
-D:\Various\HomeControl\HomeControl.RelayRpi.Hardware.Relay\obj\Debug\netcoreapp2.0\HomeControl.RelayRpi.Hardware.Relay.AssemblyInfoInputs.cache
-D:\Various\HomeControl\HomeControl.RelayRpi.Hardware.Relay\obj\Debug\netcoreapp2.0\HomeControl.RelayRpi.Hardware.Relay.AssemblyInfo.cs
